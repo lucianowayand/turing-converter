@@ -9,7 +9,7 @@ basta usar o interpretador de python através do comando
 
 ```python3 turing.py```
 
-O resultado será salvo no arquivo `output.py` e deverá ser executado no simulador mencionado acima.
+O resultado será salvo no arquivo `output.out` e deverá ser executado no simulador mencionado acima.
 
 ### Dependencias
 * Python 3 - Testes executados na versão `3.10.12`
